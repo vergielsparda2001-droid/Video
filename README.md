@@ -1,15 +1,15 @@
-# Downloaded video 2 AV1 CPU archive
+# HEVC GPU encode log archive
 
-Download every `downloaded_video_2_av1_cpu.7z.*` file into the same folder, then extract only the first file:
+Download `120_Elegant_Angel_Kleio_Valentien_Squirtwoman_Wasteland_2018_hevc_gpu_log.7z.001`, then extract it:
 
 ```sh
-7z x downloaded_video_2_av1_cpu.7z.001
+7z x 120_Elegant_Angel_Kleio_Valentien_Squirtwoman_Wasteland_2018_hevc_gpu_log.7z.001
 ```
 
-7-Zip will automatically read `.002`, `.003`, and the remaining volumes to restore `downloaded_video_2_av1_cpu.mp4`.
+7-Zip will restore `120_Elegant_Angel_Kleio_Valentien_Squirtwoman_Wasteland_2018_hevc_gpu.log`.
 
-Original video SHA-256:
+Original log SHA-256:
 
 ```text
-5bd083280136979e20706ea9007c52134210717949b1457b1e7321880edfbd4f
+a50f434be160ce6377a754094f54fae8e00a1f668a8fd345a887d5292c52aa74
 ```
